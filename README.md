@@ -1,7 +1,3 @@
-好的，这是一份根据您的草稿内容整理和润色的正式版 GitHub README.md。我为您添加了标准的 Markdown 格式、目录、许可证，并对内容进行了结构化，使其更具可读性和专业性。
-
----
-
 # 超小参数推理模型复现项目 (Project Log: Reproducing Ultra-Small Inference Models)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
